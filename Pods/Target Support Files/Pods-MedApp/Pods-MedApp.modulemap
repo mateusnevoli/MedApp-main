@@ -1,0 +1,6 @@
+framework module Pods_MedApp {
+  umbrella header "Pods-MedApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
